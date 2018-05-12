@@ -1,0 +1,36 @@
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.exe.config
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.exe
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.pdb
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csprojResolveAssemblyReference.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\MainWindow.g.cs
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\App.g.cs
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder_MarkupCompile.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder_MarkupCompile.lref
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\MainWindow.baml
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.g.resources
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.Properties.Resources.resources
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.GenerateResource.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.CoreCompileInputs.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.exe
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.pdb
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeAndDeserializeLogic.dll
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeAndDeserializeLogic.pdb
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.CopyComplete
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.exe.config
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.exe
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeFolder.pdb
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeAndDeserializeLogic.dll
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\bin\Debug\SerializeAndDeserializeLogic.pdb
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csprojResolveAssemblyReference.cache
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\MainWindow.g.cs
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\App.g.cs
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder_MarkupCompile.cache
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder_MarkupCompile.lref
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\MainWindow.baml
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.g.resources
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.Properties.Resources.resources
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.GenerateResource.cache
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.CoreCompileInputs.cache
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.csproj.CopyComplete
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.exe
+D:\Repository\SerializeAndDeserializeLogic\SerializeFolder\obj\Debug\SerializeFolder.pdb

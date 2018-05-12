@@ -1,0 +1,33 @@
+﻿<Window x:Class="SerializeFolder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SerializeFolder"
+        mc:Ignorable="d"
+        Title="Serializer" Height="550" Width="900" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Select the folder to serialize" HorizontalAlignment="Left" FontSize="17"  Margin="10,10,0,0" VerticalAlignment="Top" Width="427" Height="65" Click="SelectFolderSerialize"/>
+        <Button Content="Select the file for deserialization" Grid.Column="1" HorizontalAlignment="Left" FontSize="17"  Margin="10,10,0,0" VerticalAlignment="Top" Width="427" Height="65" Click="SelectFileDesialize"/>
+        <Button Content="Select the folder where the serializer file will be stored" FontSize="17"  Margin="10,10,10,0" Grid.Row="1" VerticalAlignment="Top" Height="65" Click="SelectFolderForSaveSerialize" />
+        <Button Content="Select the folder where the deserialization will be saved" Grid.Column="1" HorizontalAlignment="Left" FontSize="17"  Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="427" Height="65" Click="SelectFolderForSaveDeserialize" />
+        <TextBox HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" Name="FolderForSerialize" FontSize="17" VerticalAlignment="Top" Width="427" Margin="10,80,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" Name="FolderForSaveFile" FontSize="17" VerticalAlignment="Top" Width="427" Margin="10,80,0,0" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" Name="FileDesirialize" FontSize="17" VerticalAlignment="Top" Width="427" Margin="10,77,0,0" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" Name="FolderForSaveDesirialize"  FontSize="17" VerticalAlignment="Top" Width="427" Margin="10,80,0,0" Grid.Column="1" Grid.Row="1"/>
+        <Button Content="Serialize" FontSize="17" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="427" Height="64" Click="Serialize"/>
+        <Button Content="Deserialize" FontSize="17" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="427" Height="64" Click="Deserialize"/>
+        <TextBox HorizontalAlignment="Left" Height="134" Margin="10,79,0,0" Grid.Row="2" TextWrapping="Wrap" Name="Text_Serialize" FontSize="17" VerticalAlignment="Top" Width="427"/>
+        <TextBox HorizontalAlignment="Left" Height="134" Margin="10,79,0,0" Grid.Row="2" TextWrapping="Wrap" Name="Text_Deserialize" FontSize="17" VerticalAlignment="Top" Width="427" Grid.Column="1"/>
+
+    </Grid>
+</Window>

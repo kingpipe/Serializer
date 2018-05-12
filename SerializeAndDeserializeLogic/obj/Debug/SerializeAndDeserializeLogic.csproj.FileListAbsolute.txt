@@ -1,0 +1,6 @@
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\obj\Debug\SerializeAndDeserializeLogic.csprojResolveAssemblyReference.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\obj\Debug\SerializeAndDeserializeLogic.csproj.CoreCompileInputs.cache
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\bin\Debug\SerializeAndDeserializeLogic.dll
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\bin\Debug\SerializeAndDeserializeLogic.pdb
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\obj\Debug\SerializeAndDeserializeLogic.dll
+C:\Users\Petro Fediushko\source\repos\SerializeAndDeserializeLogic\SerializeAndDeserializeLogic\obj\Debug\SerializeAndDeserializeLogic.pdb
